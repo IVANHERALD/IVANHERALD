@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋 I'm Ivan Herald </h2>
 
 <div id="header" align="center">
-  <img src="/Asset/Memoj Coder.jpeg" width="300" height ="200"/>
+  <img src="/Asset/Memoj Coder.jpeg" width="300" height ="300"/>
 </div>
 <br><br>
 <center>
