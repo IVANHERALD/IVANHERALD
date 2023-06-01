@@ -1,19 +1,26 @@
 <h2 align="center">Hi there 👋 I'm Ivan Herald </h2>
-
 <div id="header" align="center">
-  <img src="Asset/memoj.mp4" width="300" height ="300"/>
+  <img src="" width="300" height ="200"/>
 </div>
-<br><br>
-<center>
-<img src="https://komarev.com/ghpvc/?username=Ahalyakrishnan&style=flat-square&color=blue" align="center" alt="profile count"/>
-</center><br>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/iherald/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
----
+
+<br>
+
+
+<img src="https://komarev.com/ghpvc/?username=IVANHERALD&style=flat-square&color=blue" align="center" alt="profile count"/>
+<br> 
+:technologist: I am a Full Stack Developer <br>
+✉️ &nbsp;You can shoot me an email at ivanheraldd@gmail.com
+
+<br>
+
+### 🤝 &nbsp;Connect with Me
+
+<p>
+<a href="https://www.linkedin.com/in/iherald/"><img src="https://img.shields.io/badge/-iherald-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:ivanheraldd@gmail.com"><img src="https://img.shields.io/badge/-ivanheraldd-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
+</p>
+
 
 ### :hammer_and_wrench: Languages and Tools :
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -28,6 +35,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=AWS&logoColor=A8B9CC)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular&logoColor=A8B9CC)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### :fire: My Stats :
