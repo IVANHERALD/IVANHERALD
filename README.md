@@ -8,12 +8,11 @@
 <img src="https://komarev.com/ghpvc/?username=Ahalyakrishnan&style=flat-square&color=blue" align="center" alt="profile count"/>
 </center><br>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/ahalya-r/">
+  <a href="https://www.linkedin.com/in/iherald/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
----
-:woman_technologist: I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
