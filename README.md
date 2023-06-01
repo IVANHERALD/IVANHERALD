@@ -1,12 +1,8 @@
 <h2 align="center">Hi there 👋 I'm Ivan Herald </h2>
-<div id="header" align="center">
-  <img src="" width="300" height ="200"/>
-</div>
-
 <br>
 
-
-<img src="https://mjswensen.com/images/coding.png" align="center" alt="profile count"/>
+<img src="https://mjswensen.com/images/coding.png" height="250"  align="center" alt="profile count"/>
+  
 <br> 
 :technologist: I am a Full Stack Developer <br>
 ✉️ &nbsp;You can shoot me an email at ivanheraldd@gmail.com
