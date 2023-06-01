@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋 I'm Ivan Herald </h2>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" width="300" height ="200"/>
+  <img src="/Asset/Memoj coder.jpg" width="300" height ="200"/>
 </div>
 <br><br>
 <center>
