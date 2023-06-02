@@ -2,7 +2,7 @@
 <br>
 
 <img src="https://mjswensen.com/images/coding.png" height="250"  align="center" alt="profile count"/>
-  
+  <img src="https://komarev.com/ghpvc/?username=IVANHERALD&style=flat-square&color=blue" align="center" alt="profile count"/>
 <br> 
 :technologist: I am a Full Stack Developer <br>
 ✉️ &nbsp;You can shoot me an email at ivanheraldd@gmail.com
