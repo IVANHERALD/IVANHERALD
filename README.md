@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋 I'm Ivan Herald </h2>
 <br>
 
-<img src="[https://mjswensen.com/images/coding.png](https://i.pinimg.com/736x/de/52/b7/de52b7bd3fbd77d5ca765bb6c40b3eb0.jpg)" height="250"  align="center" alt="profile count"/>
+<img src="https://i.pinimg.com/736x/de/52/b7/de52b7bd3fbd77d5ca765bb6c40b3eb0.jpg" height="250"  align="center" alt="profile count"/>
   <img src="https://komarev.com/ghpvc/?username=IVANHERALD&style=flat-square&color=blue" align="center" alt="profile count"/>
 <br> 
 :technologist: I am a Full Stack Developer <br>
